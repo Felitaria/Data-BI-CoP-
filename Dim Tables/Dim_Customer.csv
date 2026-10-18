@@ -1,0 +1,11 @@
+CustomerKey,CustomerName,Segment,Country,Region
+101,US Federal Energy,Government,United States,North America
+102,CanOil Ministry,Government,Canada,North America
+103,EuroGrid Public,Government,Germany,Europe
+104,Apex Drilling Corp,Enterprise,United States,North America
+105,Nordic Offshore Ltd,Enterprise,Norway,Europe
+106,Andes Petro S.A.,Midmarket,Colombia,South America
+107,Boreal Energy Inc,Midmarket,Canada,North America
+108,Texican Rig Services,Small Business,United States,North America
+109,Rhein Field Partners,Channel Partners,Germany,Europe
+110,Pacific Well Supply,Channel Partners,Mexico,North America
